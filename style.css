@@ -1,0 +1,35 @@
+#title{
+    text-align: center;
+    background-color: pink;
+  }
+  h3{
+    text-align: left;
+  }
+  #chat{
+    border: 5px solid black;
+      margin-top: -20px;
+      margin-bottom: 300px;
+      margin-right:150px;
+      margin-left: 200px;
+      background-color: lightblue;
+      font-size: 20px;
+        }
+  #textbox{
+   border: 1px solid black;
+      text-align: center;
+    margin-right: -50px;
+    margin-left: 295px;
+    margin-bottom: 100px;
+    margin-top: -500px;
+      background-color: lightblue;  
+  }
+  button{
+     margin-right: -50px;
+    margin-left: -105px;
+    margin-bottom: -200px;
+    margin-top: -100px;
+  }
+  img {
+    border: solid;
+    border-color: red;
+  }
